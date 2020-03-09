@@ -1,4 +1,4 @@
-Learn more or give us feedback
+
 class Project
   attr_accessor :title, :backers
 
